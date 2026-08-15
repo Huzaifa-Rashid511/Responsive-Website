@@ -1,6 +1,6 @@
-# 🎓 University Website
+# 🌐 Responsive Website
 
-A modern and responsive university website built using HTML5, CSS3, and JavaScript.
+A modern responsive website built using HTML5, CSS3, and JavaScript, designed to provide a clean and user-friendly experience across different screen sizes.
 
 ## 🌐 Live Demo
 
@@ -8,21 +8,20 @@ Coming soon...
 
 ## 📌 About The Project
 
-This project is a university website designed to provide visitors with information about the university, its campuses, facilities, and other important sections.
+This project was created to practice responsive web development and build a modern website that adapts to different screen sizes.
 
-The website focuses on a clean layout, responsive design, easy navigation, and an engaging user experience.
+The design focuses on clean layouts, responsive sections, modern typography, and an easy-to-use interface.
 
 ## ✨ Features
 
-- Responsive website layout
-- Modern navigation menu
-- University information sections
-- Campus information
-- Facilities section
-- Testimonials section
-- Responsive images
-- Clean and organized design
-- JavaScript functionality
+- 📱 Responsive design
+- 💻 Desktop-friendly layout
+- 📟 Tablet-friendly layout
+- 📱 Mobile-friendly layout
+- 🎨 Modern UI design
+- 🧭 Responsive navigation
+- 🖼️ Image-based content sections
+- ⚡ JavaScript functionality
 
 ## 🛠️ Technologies Used
 
@@ -32,16 +31,16 @@ The website focuses on a clean layout, responsive design, easy navigation, and a
 
 ## 📱 Responsive Design
 
-The website is designed to work across different screen sizes, including:
+The website is designed to work across:
 
-- 💻 Desktop
-- 📱 Mobile
-- 📟 Tablet
+- Desktop
+- Tablet
+- Mobile
 
 ## 📂 Project Structure
 
 ```text
-University-Website/
+Responsive-Website/
 │
 ├── index.html
 ├── style.css
