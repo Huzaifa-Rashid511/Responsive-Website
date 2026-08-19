@@ -4,7 +4,7 @@ A modern responsive website built using HTML5, CSS3, and JavaScript, designed to
 
 ## 🌐 Live Demo
 
-Coming soon...
+[🚀 View Live Website](https://huzaifa-rashid511.github.io/Responsive-Website/)
 
 ## 📌 About The Project
 
